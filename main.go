@@ -1,8 +1,9 @@
 package main
 
 import (
-	"gramophone/spotify"
-	"gramophone/telegram"
+	"github.com/antonybro/gramophone/telegram"
+	"github.com/antonybro/gramophone/spotify"
+
 	"time"
 	"strings"
 	"regexp"

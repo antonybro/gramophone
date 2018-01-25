@@ -1,9 +1,9 @@
 package telegram
 
 import (
-	"log"
 	"gopkg.in/telegram-bot-api.v4"
 
+	"log"
 	"os"
 )
 

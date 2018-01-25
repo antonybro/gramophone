@@ -1,11 +1,11 @@
 package spotify
 
 import (
+	"github.com/zmb3/spotify"
+
 	"fmt"
 	"log"
 	"net/http"
-
-	"github.com/zmb3/spotify"
 	"strconv"
 	"os"
 	"math/rand"
